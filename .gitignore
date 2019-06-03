@@ -1,0 +1,6 @@
+.sass-cache/
+node_modules/
+sitemap.xml
+package-lock.json
+*.log
+.DS_Store
